@@ -1,0 +1,2 @@
+# E_Commerce
+First you have to extract .zip file and put this folder to your server.Then enter this folder and import source.sql database file to your mysql database.After you open connection.php file and change your user name(root) and password(tkmysql).Now go to your browser and go to this link http://localhost/E-Commerce-Website-master/index.php . This is my link, which is my local server.You paste your own.
